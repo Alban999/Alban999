@@ -36,7 +36,7 @@ class Engineer:
 me = Engineer()
 ```
 <p align="center"><strong>
-    🔽 Featured Project: <a href="https://github.com/Qulxis/spotify-big-data-project"> AutoTune GUI</a> 🔽
+    🔽 Featured Project: <a href="https://github.com/Qulxis/spotify-big-data-project"> Collaborative Spotify Playlist System (Full Stack ML Big Data)</a> 🔽
     </strong>
 <img src="https://github.com/Qulxis/Qulxis/blob/main/architecture.png" align="center" alt="Hello!">
 </p>

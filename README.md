@@ -1,8 +1,5 @@
-### Hi there 👋 Weclome to my Github Page!
-
-
 <p align="right">
-  <p align="center"><strong>Hi, I’m Andrew!</strong></p>
+  <p align="center"><strong>Hi, I’m Andrew 👋 Weclome to my Github Page!</strong></p>
   <p align="center">
       I’m an electrical engineer and data scientist. I am a graduate of Columbia University and Rice University
       

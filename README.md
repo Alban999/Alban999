@@ -38,8 +38,9 @@ class Engineer:
         return "Syracuse_NY"
 me = Engineer()
 ```
-<p align="center">
+<p align="center"><strong>
     🔽 Featured Project: <a href="https://github.com/Qulxis/spotify-big-data-project"> AutoTune GUI</a> 🔽
-</p>
+    </strong>
 <img src="https://github.com/Qulxis/Qulxis/blob/main/architecture.png" align="center" alt="Hello!">
+</p>
 

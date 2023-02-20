@@ -32,8 +32,8 @@ class Engineer:
                             "Signal Processing"]
         self.connect      = "https://www.linkedin.com/in/andrewhsuxavier/"
     
-    def getCity():
-        return "Syracuse_NY"
+    def getHistory():
+        return "Albuquerque->Houston->NewYork"
 me = Engineer()
 ```
 <p align="center"><strong>

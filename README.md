@@ -41,5 +41,5 @@ me = Engineer()
 <p align="center">
     🔽 Featured Project: <a href="https://github.com/Qulxis/spotify-big-data-project"> AutoTune GUI</a> 🔽
 </p>
-<img src="" align="center" alt="Hello!">
+<img src="https://github.com/Qulxis/Qulxis/blob/main/architecture.png" align="center" alt="Hello!">
 

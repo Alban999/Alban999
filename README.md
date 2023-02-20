@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hi there 👋 Weclome to my Github Page!
 
-<!--
-**Qulxis/Qulxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="right">
+  <p align="center"><strong>Hi, I’m Andrew!</strong></p>
+  <p align="center">
+      I’m an electrical engineer and data scientist. I am a graduate of Columbia University and Rice University
+      
+      Here's some of my interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      - 📈 Machine Learning 
+      - ♟️ Artificial Intelligence
+      - 🎮 Reinforcement Learning
+      - 📻 Digital Signal Processing 
+      - 📊 Big Data Analytics
+  </p>
+  
+</p>
+
+
+```python
+#!/usr/bin/python
+class Engineer:
+    def __init__(self):
+        self.name         = "Andrew Xavier"
+        self.role         = "Electrical + ML Engineer"
+        self.contact      = "ahx2001@columbia.edu"
+        self.education    = {
+                            "Rice University": "BS Electrical Engineering",
+                            "Columbia University": "MS Electrical Engineering",
+                            }
+        self.skills       = ["Deep Learning", "Reinforcement Learning", "AI",
+                            "Machine Learning", "Algorithms", "Big Data Analytics", 
+                            "Signal Processing"]
+        self.connect      = "https://www.linkedin.com/in/andrewhsuxavier/"
+    
+    def getCity():
+        return "Syracuse_NY"
+me = Engineer()
+```

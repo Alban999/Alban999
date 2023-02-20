@@ -42,3 +42,7 @@ me = Engineer()
 <img src="https://github.com/Qulxis/Qulxis/blob/main/architecture.png" align="center" alt="Hello!">
 </p>
 
+<p align="center">
+  Visitors :</br>
+  <img src="https://profile-counter.glitch.me/Qulxis/count.svg" />
+</p>

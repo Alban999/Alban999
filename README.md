@@ -1,16 +1,17 @@
 <p align="right">
-  <p align="center" style="font-size:25px;"><strong>Hi, I’m Andrew 👋 Weclome to my Github Page!</strong></p>
+  <p align="center" style="font-size:25px;"><strong>Hi, I’m Alban 👋 Weclome to my Github Page!</strong></p>
   <p align="center">
-      I’m an Electrical Engineer and Data Scientist </br>
-      Columbia University and Rice University
+      I’m a Physics, Computer and Electrical Engineer </br>
+      Columbia University, Katholieke Universiteit Leuven and Université Libre de Bruxelles
       
       Here's some of my interests:
 
       - 📈 Machine Learning 
       - ♟️ Artificial Intelligence
-      - 🎮 Reinforcement Learning
-      - 📻 Digital Signal Processing 
       - 📊 Big Data Analytics
+      - :atom: Quantum Computing
+      - 🔭 Physics
+      - ⚒	 Engineering
   </p>
   
 </p>

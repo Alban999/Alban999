@@ -9,9 +9,9 @@
       - 📈 Machine Learning 
       - ♟️ Artificial Intelligence
       - 📊 Big Data Analytics
-      - :atom: Quantum Computing
+      - ⚛ Quantum Computing
       - 🔭 Physics
-      - ⚒	 Engineering
+      - 🛠 Engineering
   </p>
   
 </p>
@@ -21,29 +21,32 @@
 #!/usr/bin/python
 class Engineer:
     def __init__(self):
-        self.name         = "Andrew Xavier"
-        self.role         = "Electrical + ML Engineer"
-        self.contact      = "ahx2001@columbia.edu"
+        self.name         = "Alban Dietrich"
+        self.role         = "Physics + Computer + Electrical + Quantum Engineer"
+        self.contact      = "ad4017@columbia.edu"
         self.education    = {
-                            "Rice University": "BS Electrical Engineering",
+                            "Université Libre de Bruxelles": "BS Engineering",
+                            "Université Libre de Bruxelles": "MS Physics Engineering",
+                            "Katholieke Universiteit Leuven": "MS Artificial Intelligence",
                             "Columbia University": "MS Electrical Engineering",
                             }
         self.skills       = ["Deep Learning", "Reinforcement Learning", "AI",
-                            "Machine Learning", "Algorithms", "Big Data Analytics", 
-                            "Signal Processing"]
-        self.connect      = "https://www.linkedin.com/in/andrewhsuxavier/"
+                            "Machine Learning", "Algorithms", "Big Data Analytics",
+                            "Frontend", "Backend", "Quantum Physics", "Quantum Computing"
+                            "Electrical Engineering"]
+        self.connect      = "https://www.linkedin.com/in/alban-dietrich/"
     
     def getHistory():
-        return "Albuquerque->Houston->NewYork"
+        return "Belgium->NewYork"
 me = Engineer()
 ```
 <p align="center"><strong>
-    🔽 Featured Project: <a href="https://github.com/Qulxis/spotify-big-data-project"> Collaborative Spotify Playlist System (Full Stack ML Big Data)</a> 🔽
+    🔽 Featured Project: <a href="https://github.com/Alban999/Collaborative-Spotify-Playlist-System"> Collaborative Spotify Playlist System (Full Stack ML Big Data)</a> 🔽
     </strong>
-<img src="https://github.com/Qulxis/Qulxis/blob/main/architecture.png" align="center" alt="Hello!">
+<img src="https://github.com/Alban999/Alban999/blob/main/architecture.png" align="center" alt="Hello!">
 </p>
 
 <p align="center">
   Visitors :</br>
-  <img src="https://profile-counter.glitch.me/Qulxis/count.svg" />
+  <img src="https://profile-counter.glitch.me/Alban999/count.svg" />
 </p>
